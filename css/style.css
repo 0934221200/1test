@@ -1,3 +1,4 @@
+/*
 *{
     margin: 0;
     padding: 0;
@@ -42,4 +43,49 @@ li{
     border: 1px solid yellow;
     border-right: none;
     
+*/
+}
+/*
+[class*="class-1"]{
+    width: 100px;
+    height: 100px;
+    top: 10px;
+    left: 10px;
+    position: absolute;
+}
+.class-11 {
+    background-color: aqua;
+}
+.class-12 {
+    width: 75px;
+    background-color: darkviolet;
+}
+.class-13 {
+    background-color: rebeccapurple;
+    width: 50px;
+    
+}
+.class-14 {
+    width: 40px;
+        background-color: darkolivegreen;
+}
+*/
+
+[class*="class-2"],.class-24{
+    width: 500px;
+    height:500px;
+    background: red;
+    position: relative;
+}
+.class-21{
+    width: 40px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    }
+.class-22,.class-23{
+    width: 100px;
+    height: 100px;
+    background-color: lavender;
+    position: absolute
 }
