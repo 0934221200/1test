@@ -1,75 +1,4 @@
-/*
-*{
-    margin: 0;
-    padding: 0;
-}
-a{
-    color: lavender
-    }
 
-.class-1{
-    color: firebrick;
-}
-.class-1{
-   color: blueviolet
-}
-[href]{
-    color: coral
-}
-#id-1{
-    color: greenyellow;
-}
-*{
-    margin: 0;
-    padding: 0;
-}
-.sun{
-    padding: 30px;
-    border: 1px solid #001;
-    margin: 30px;
-    width: 450px;
-    height: 337px;
-    box-sizing: border-box;
-}
-.class1, .class2{
-    margin: 30px;
-    width: 100px;
-    height: 100px:
-    background: green;
-}
-li{
-    display: inline-block
-    background: red;
-    border: 1px solid yellow;
-    border-right: none;
-    
-*/
-}
-/*
-[class*="class-1"]{
-    width: 100px;
-    height: 100px;
-    top: 10px;
-    left: 10px;
-    position: absolute;
-}
-.class-11 {
-    background-color: aqua;
-}
-.class-12 {
-    width: 75px;
-    background-color: darkviolet;
-}
-.class-13 {
-    background-color: rebeccapurple;
-    width: 50px;
-    
-}
-.class-14 {
-    width: 40px;
-        background-color: darkolivegreen;
-}
-*/
 
 [class*="class-2"],.class-24{
     width: 500px;
@@ -78,14 +7,21 @@ li{
     position: relative;
 }
 .class-21{
-    width: 40px;
-    height: 100px;
+    width: 60px;
+    height: 200px;
     background-color: black;
     position: absolute;
+    left: 100px;
+    top: 300px;
     }
 .class-22,.class-23{
     width: 100px;
     height: 100px;
     background-color: lavender;
-    position: absolute
+    position: absolute;
+    top: 100px;
+    left: 100px;
+ }
+.class-23{
+    left: 300px;
 }
