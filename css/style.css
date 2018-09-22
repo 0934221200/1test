@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: lavender
+    }
+
+.class-1{
+    color: firebrick;
+}
+.class-1{
+   color: blueviolet
+}
+[href]{
+    color: coral
+}
+#id-1{
+    color: greenyellow;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.sun{
+    padding: 30px;
+    border: 1px solid #001;
+    margin: 30px;
+    width: 450px;
+    height: 337px;
+    box-sizing: border-box;
+}
+.class1, .class2{
+    margin: 30px;
+    width: 100px;
+    height: 100px:
+    background: green;
+}
+li{
+    display: inline-block
+    background: red;
+    border: 1px solid yellow;
+    border-right: none;
+    
+}
